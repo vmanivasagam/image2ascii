@@ -1,4 +1,4 @@
 # image2ascii
-Image to Ascii Text:<br/>
-    Convert a given Image to ASCII based text.<br/>
-    Uses Pywhatkit library
+**Image to Ascii Text:**<br/>
+    <li>Convert a given Image to ASCII based text.<br/>
+    <li>Uses Pywhatkit library
